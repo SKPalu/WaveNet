@@ -1,4 +1,5 @@
-dgl==1.1.0+cu102
+#dgl==1.1.0+cu102 #Original Line, but it gives error, its changed to the next line below.
+dgl==1.1.0
 numpy==1.21.6
 ogb==1.3.3
 pandas==1.3.5
